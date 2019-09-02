@@ -1,0 +1,272 @@
+<resources>
+    <string name="app_name">IPSApp</string>
+    <string name="app_instructions">IPSApp - Instrucciones</string>
+    <string name="app_recover_account">IPSApp - Ayuda</string>
+    <string name="app_complete_profile">IPSApp - Configuración</string>
+    <string name="app_change_password">IPSApp - Configuración</string>
+    <string name="app_results">IPSApp - Resultados</string>
+    <string name="app_questionnaire">IPSApp - Cuestionario</string>
+    <string name="emailField">Correo electrónico</string>
+    <string name="passwordField">Contraseña</string>
+    <string name="logInButton">Iniciar sesión</string>
+    <string name="failedLogIn">Inicio de sesión fallido</string>
+    <string name="wrongEmail">El email introducido no está registrado.</string>
+    <string name="wrongCredential">Email o contraseña incorrectos.</string>
+    <string name="emptyCredential">Por favor, rellena todos los campos.</string>
+    <string name="textView1">Antes de empezar, rellena los siguientes campos:</string>
+    <string name="textViewName">Nombre</string>
+    <string name="textViewSex">Sexo</string>
+    <string name="textViewLanguage">Idioma</string>
+    <string name="nameField">Escribe tu nombre</string>
+    <string name="femaleButton">Mujer</string>
+    <string name="maleButton">Hombre</string>
+    <string name="catalanButton">Catalán</string>
+    <string name="spanishButton">Castellano</string>
+    <string name="nextButton">Siguiente</string>
+    <string name="previousButton">Anterior</string>
+    <string name="presentationText">¡Hola, %1$s!</string>
+    <string name="instructions">Instrucciones</string>
+    <string name="instructionsText">El cuestionario IPSAQ consta de 32 preguntas. Por cada pregunta que
+        respondas desbloquearás una nueva pieza de un puzzle de 9 piezas. </string>
+    <string name="instructionsText2">Adivina qué esconde el puzzle para poder ver la imagen completa y
+        pasar al siguiente.</string>
+    <string name="instructionsText3">Puedes abandonar el cuestionario en cualquier momento y retormarlo
+    más tarde por donde lo habías dejado.</string>
+    <string name="instructionsText4">Cuando hayas terminado, tendrás que adivinar
+        cual es el concepto que relaciona todas las imágenes que has visto.
+        ¡Cuantos más puzzles hayas adivinado más fácil te será!</string>
+    <string name="instructionsText5">¡Pero no te marches sin conocer tus resultados!</string>
+    <string name="instructionsText6">¿Serás un atribuidor interno, personal o situacional? ¡Comienza el cuestionario y descúbrelo!</string>
+    <string name="introduction">Ya puedes comenzar tu primer cuestionario. Tómate tu tiempo y responde con sinceridad.
+        ¿Estás listo/a?</string>
+    <string name="introduction2">¡Tienes un cuestionario empezado! ¿Deseas retomarlo?</string>
+    <string name="introduction3">¡Ya has completado tu cuestionario! Envíalo y accederás al final del juego.</string>
+    <string name="introduction4">¡Ya has completado tu cuestionario! Accede a la pregunta final del juego.</string>
+    <string name="introduction5">¡Ya has enviado un cuestionario! Puedes empezar uno nuevo si así lo deseas.</string>
+    <string name="startButton">Empezar cuestionario</string>
+    <string name="resumeButton">Retomar cuestionario</string>
+    <string name="sendButton">Enviar cuestionario</string>
+    <string name="access">Acceder</string>
+    <string name="menu">Menú principal</string>
+    <string name="q1">Un amigo te lleva a casa. ¿Cuál es la causa de que tu amigo te lleve a casa?</string>
+    <string name="q2">Un amigo habla sobre ti a tus espaldas. ¿Cuál es la causa de que tu amigo hable sobre ti a tus
+espaldas?</string>
+    <string name="q3">Un amigo dice que no te tiene respeto. ¿Cuál es la causa de que tu amigo diga que no te tiene
+respeto?</string>
+    <string name="q4">Un amigo te ayuda a cuidar las plantas. ¿Cuál es la causa de que tu amigo te ayude a cuidar las
+plantas?</string>
+    <string name="q5">Un amigo piensa que eres de confianza. ¿Cuál es la causa de que tu amigo piense que eres de
+confianza?</string>
+    <string name="q6">Un amigo te dice algo insultante. ¿Cuál es la causa de que tu amigo te diga algo insultante?</string>
+    <string name="q7">Un amigo te compra un regalo ¿Cuál es la causa de que tu amigo te compre un regalo?</string>
+    <string name="q8">Un amigo se mete contigo. ¿Cuál es la causa de que tu amigo se meta contigo?</string>
+    <string name="q9">Un amigo piensa que no eres honrado. ¿Cuál es la causa de que tu amigo piense que no eres honrado?</string>
+    <string name="q10">Un amigo rechaza hablar contigo. ¿Cuál es la causa de que tu amigo rechaze hablar contigo?</string>
+    <string name="q11">Un amigo piensa que eres interesante. ¿Cuál es la causa de que tu amigo piense que eres interesante?</string>
+    <string name="q12">Un amigo te manda una postal. ¿Cuál es la causa de que tu amigo te mande una postal?</string>
+    <string name="q13">Un amigo piensa que eres antipático. ¿Cuál es la causa de que tu amigo piense que eres antipático?</string>
+    <string name="q14">Un amigo pasa algun tiempo hablando contigo. ¿Cuál es la causa de que tu amigo pase algun tiempo
+hablando contigo?</string>
+    <string name="q15">Un amigo piensa que eres listo. ¿Cuál es la causa de que tu amigo piense que eres listo?</string>
+    <string name="q16">Un amigo piensa que eres sensato. ¿Cuál es la causa de que tu amigo piense que eres sensato?</string>
+    <string name="q17">Un amigo se niega a ayudarte con tu trabajo. ¿Cuál es la causa de que tu amigo se niegue a ayudarte
+con tu trabajo?</string>
+    <string name="q18">Un amigo piensa que eres injusto. ¿Cuál es la causa de que tu amigo piense que eres injusto?</string>
+    <string name="q19">Un amigo dice que no le gustas. ¿Cuál es la causa de que tu amigo diga que no le gustas?</string>
+    <string name="q20">Un amigo llama para preguntar por ti. ¿Cuál es la causa de que tu amigo llame para preguntar por ti?</string>
+    <string name="q21">Un amigo te ignora. ¿Cuál es la causa de que tu amigo te ignore?</string>
+    <string name="q22">Un amigo dice que te admira. ¿Cuál es la causa de que tu amigo diga que te admira?</string>
+    <string name="q23">Un amigo dice que te encuentra aburrido. ¿Cuál es la causa de que tu amigo diga que te encuentra
+aburrido?</string>
+    <string name="q24">Un amigo dice que le ofendes. ¿Cuál es la causa de que tu amigo diga que le ofendes?</string>
+    <string name="q25">Un amigo te visita para charlar. ¿Cuál es la causa de que tu amigo te visite para charlar?</string>
+    <string name="q26">Un amigo cree que eres honesto. ¿Cuál es la causa de que tu amigo cree que eres honesto?</string>
+    <string name="q27">Un amigo traiciona la confianza que tienes en él. ¿Cuál es la causa de que traicione la confianza que
+tienes en él?</string>
+    <string name="q28">Un amigo te pide que te vayas. ¿Cuál es la causa de que tu amigo te pida que te vayas?</string>
+    <string name="q29">Un amigo dice que te respeta. ¿Cuál es la causa de que tu amigo diga que te respeta?</string>
+    <string name="q30">Un amigo piensa que eres estúpido. ¿Cuál es la causa de que tu amigo piense que eres estúpido?</string>
+    <string name="q31">Un amigo dice que le caes bien. ¿Cuál es la causa de que tu amigo diga que le caes bien?</string>
+    <string name="q32">Un vecino te invita a tomar una copa. ¿Cuál es la causa de que tu vecino te invite a tomar una copa?</string>
+    <string name="cause">(Por favor escribe la principal causa)</string>
+    <string name="thisIs">Esto es:</string>
+    <string name="a">¿algo sobre ti?</string>
+    <string name="b">¿algo sobre la otra persona u otra gente?</string>
+    <string name="c">¿algo sobre la situación (circunstancias o azar)?</string>
+    <string name="percentage">¿En qué porcentaje estás convencido/a de que esta razón es la principal causa?</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="sendTest">Enviar cuestionario</string>
+    <string name="changePassword">Por motivos de seguridad, escoge una nueva contraseña:</string>
+    <string name="changePassword2">Cambia tu contraseña</string>
+    <string name="currentPassword">Contraseña actual</string>
+    <string name="newPassword">Nueva contraseña</string>
+    <string name="confirmPassword">Confirmar contraseña</string>
+    <string name="failedPasswordChange">Cambio de contraseña fallido</string>
+    <string name="notMatchingPasswords">Las contraseñas no coinciden.</string>
+    <string name="tryAgainLater">Inténtalo de nuevo más tarde.</string>
+    <string name="failedRegister">Registro fallido</string>
+    <string name="writeEmail">Para recuperar tu cuenta, introduce el correo electrónico vinculado a esta. </string>
+    <string name="failedPetition">Petición fallida</string>
+    <string name="genericError">Se ha producido un error. Inténtalo de nuevo más tarde.</string>
+    <string name="serverError">No pudo establacerse la conexión con el servidor. Inténtalo de nuevo más tarde.</string>
+    <string name="mailSent">Mail enviado</string>
+    <string name="mailSent2">Se ha enviado un mail a %1$s.</string>
+    <string name="error">Error</string>
+    <string name="forgotPassword">¿Olvidaste tu contraseña?</string>
+    <string name="recoverAccount">Recupera tu cuenta</string>
+    <string name="completeProfile">Completa tu perfil</string>
+    <string name="complete">Pregunta completada</string>
+    <string name="half">Pregunta a medias</string>
+    <string name="empty">Pregunta sin responder</string>
+    <string name="skip">Saltar instrucciones</string>
+    <string name="gotAnswer">¿Sabes ya qué es?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="finish">Finalizar</string>
+    <string name="writeAnswer">Escribe aquí tu respuesta (una palabra)</string>
+    <string name="failedNext">Error</string>
+    <string name="writeAll">Debes completar toda la pregunta antes de continuar.</string>
+    <string name="_continue">Continuar</string>
+    <string name="incorrect">Respuesta incorrecta</string>
+    <string name="correct">¡Respuesta correcta!</string>
+    <string name="unguessed">¡No has adivinado la imagen!</string>
+    <string name="incorrectText">¡Sigue respondiedo preguntas y desbloquea más piezas del puzzle!</string>
+    <string name="incorrectText2">La respuesta correcta era: %1$s.\n¡Sigue respondiedo preguntas y desbloquea un nuevo puzzle!</string>
+    <string name="end">¡Ya has terminado el cuestionario!</string>
+    <string name="endText">¡Ya has terminado el cuestionario! A continuación, se enviarán tus respuestas y accederás a la pregunta final del juego.
+    ¿Estás listo?</string>
+    <string name="endText2">La respuesta correcta era: %1$s.\nA continuación, se enviarán tus respuestas y accederás a la pregunta final del juego.
+    ¿Estás listo?</string>
+    <string name="endText3">A continuación, se enviarán tus respuestas y accederás a la pregunta final del juego.
+    ¿Estás listo?</string>
+    <string name="endText4">La respuesta correcta era: %1$s. Observa la imagen completa antes de acceder a la pregunta final del juego.</string>
+    <string name="correctText">Imagen desbloqueada</string>
+    <string name="cancel">Cancelar</string>
+    <string name="puzzleQuestion">¿Qué concepto relaciona todas las imágenes? (una palabra)</string>
+    <string name="puzzleAnswer">Escribe aquí tu respuesta</string>
+    <string name="seeResults">Ver resultados</string>
+    <string name="correctConcept">El concepto que relaciona todas las palabras es: %1$s.\nMuchas
+    gracias por completar el cuestinario. Accede a tus resultados a continuación.</string>
+    <string name="incorrectConcept">El concepto que relaciona todas las palabras es: %1$s.\nMuchas
+    gracias por completar el cuestinario. Accede a tus resultados a continuación.</string>
+    <string name="exitButton">Salir del cuestionario</string>
+    <string name="youAre">Eres un...</string>
+    <string name="personal">¡atribuidor personal!</string>
+    <string name="internal">¡atribuidor interno!</string>
+    <string name="situational">¡atribuidor situacional!</string>
+    <string name="personalText">Tiendes a atribuir las causas de los sucesos a otras personas.
+    Esto puede llevarte a tener creencias erronias y paranoias sobre lo que pasa a tu alrededor,
+        lo que piensa la gente de tí o sus intenciones. Debes esforzarte por mejorarlo.</string>
+    <string name="internalText">Tiendes a atribuirte las causas de los sucesos a tí mismo.
+    Esto puede causarte mal humor e incluso depresión. Debes esforzarte por mejorarlo.</string>
+    <string name="situationalText">Tiendes a atribuir las causas de los sucesos a circunstancias externas.
+        Esto es psicológicamente benigno, así que ¡Enhorabuena! No tienes nada de que preocuparte. </string>
+    <string name="send">Enviar</string>
+    <string name="start">Empezar</string>
+    <string name="questionnaire">Cuestionario\nIPSAQ</string>
+    <string name="endQuestion">Pregunta final</string>
+
+
+    <string name="summer">Verano</string>
+    <string name="technology">Tecnología</string>
+    <string name="animals">Animales|Animal</string>
+    <string name="sunflower_jpg">Girasol</string>
+    <string name="watermelon_jpg">Sandía</string>
+    <string name="beach_jpg">Playa</string>
+    <string name="palmtree_jpg">Palmeras|Palmera</string>
+    <string name="icecream_jpg">Helado</string>
+    <string name="flamingo_jpg">Flamenco</string>
+    <string name="pineapple_jpg">Piña</string>
+    <string name="sunglasses_jpg">Gafas|Gafa</string>
+    <string name="umbrella_jpg">Sombrilla|Parasol</string>
+    <string name="swimmingpool_jpg">Piscina</string>
+    <string name="floater_jpg">Flotador</string>
+    <string name="bee_jpg">Abeja</string>
+    <string name="berries_jpg">Bayas|Baya</string>
+    <string name="bikini_jpg">Bikini|Biquini|Bañador</string>
+    <string name="coral_jpg">Coral|Corales</string>
+    <string name="daisy_jpg">Margarita</string>
+    <string name="deckchair_jpg">Tumbona</string>
+    <string name="diver_jpg">Submarinista|Submarinismo|Buceo|Buceador</string>
+    <string name="fan_jpg">Ventilador</string>
+    <string name="flipflops_jpg">Chanclas|Chancla</string>
+    <string name="hammock_jpg">Hamaca</string>
+    <string name="hat_jpg">Sombrero</string>
+    <string name="ice_jpg">Hielo|Cubito</string>
+    <string name="lavander_jpg">Lavanda</string>
+    <string name="lemonade_jpg">Limonada</string>
+    <string name="sailboat_jpg">Velero|Barco</string>
+    <string name="shells_jpg">Conchas|Concha</string>
+    <string name="skirt_jpg">Falda|Minifalda</string>
+    <string name="sun_jpg">Sol</string>
+    <string name="surfer_jpg">Surfero|Surf|Surfer</string>
+    <string name="trafficjam_jpg">Atasco</string>
+    <string name="wheatmower_jpg">Segadora|Segador|Trilladora|Cosechadora</string>
+    <string name="mouse_jpg">Ratón</string>
+    <string name="computer_jpg">Ordenador</string>
+    <string name="coffeemachine_jpg">Cafetera</string>
+    <string name="lightbulb_jpg">Bombilla</string>
+    <string name="speaker_jpg">Altavoz</string>
+    <string name="headphones_jpg">Auriculares|Auricular|Cascos</string>
+    <string name="washingmachine_jpg">Lavadora|Lavadoras</string>
+    <string name="drone_jpg">Dron</string>
+    <string name="smartphone_jpg">Móvil</string>
+    <string name="elevator_jpg">Ascensor</string>
+    <string name="car_jpg">Coche</string>
+    <string name="television_jpg">Televisor|Televisión</string>
+    <string name="camera_jpg">Cámara</string>
+    <string name="microphone_jpg">Micrófono</string>
+    <string name="robot_jpg">Robot</string>
+    <string name="airplane_jpg">Avión</string>
+    <string name="alarmclock_jpg">Despertador</string>
+    <string name="fridge_jpg">Nevera|Refrigerador</string>
+    <string name="keyboard_jpg">Teclado</string>
+    <string name="laser_jpg">Láser</string>
+    <string name="microscope_jpg">Microscopio</string>
+    <string name="printer_jpg">Impresora</string>
+    <string name="projector_jpg">Proyector</string>
+    <string name="radiography_jpg">Radiografía</string>
+    <string name="rocket_jpg">Cohete</string>
+    <string name="telephone_jpg">Teléfono</string>
+    <string name="telescope_jpg">Telescopio</string>
+    <string name="train_jpg">Tren</string>
+    <string name="turbine_jpg">Turbina|Molino</string>
+    <string name="turntable_jpg">Tocadiscos</string>
+    <string name="watch_jpg">Reloj</string>
+    <string name="cat_jpg">Gato</string>
+    <string name="dog_jpg">Perro</string>
+    <string name="elephant_jpg">Elefante</string>
+    <string name="fox_jpg">Zorro</string>
+    <string name="butterfly_jpg">Mariposa</string>
+    <string name="parrot_jpg">Loro</string>
+    <string name="eagle_jpg">Águila</string>
+    <string name="turtle_jpg">Tortuga</string>
+    <string name="lion_jpg">León</string>
+    <string name="tiger_jpg">Tigre</string>
+    <string name="squirrel_jpg">Ardilla</string>
+    <string name="reindeer_jpg">Ciervo</string>
+    <string name="frog_jpg">Rana</string>
+    <string name="penguin_jpg">Pingüino</string>
+    <string name="hamster_jpg">Hámster</string>
+    <string name="ant_jpg">Hormiga</string>
+    <string name="duck_jpg">Pato</string>
+    <string name="jellyfish_jpg">Medusa</string>
+    <string name="monkey_jpg">Mono</string>
+    <string name="rooster_jpg">Gallo</string>
+    <string name="bear_jpg">Oso</string>
+    <string name="camel_jpg">Camello</string>
+    <string name="cow_jpg">Vaca</string>
+    <string name="crab_jpg">Cangrejo</string>
+    <string name="dolphin_jpg">Delfín</string>
+    <string name="hippopotamus_jpg">Hipopótamo</string>
+    <string name="horse_jpg">Caballo</string>
+    <string name="koala_jpg">Koala</string>
+    <string name="owl_jpg">Buho</string>
+    <string name="pig_jpg">Cerdo</string>
+    <string name="rabbit_jpg">Conejo</string>
+    <string name="seal_jpg">Foca</string>
+    <string name="snake_jpg">Serpiente</string>
+
+
+</resources>
+

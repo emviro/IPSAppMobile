@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.etseib.ipsapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ipsapp_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Instructions3Activity"
+            android:configChanges="orientation"
+            android:label="@string/app_instructions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ResultsActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_results"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Image2Activity"
+            android:configChanges="orientation"
+            android:label="@string/endQuestion"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ImageActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_questionnaire"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GameActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_questionnaire"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Instructions2Activity"
+            android:configChanges="orientation"
+            android:label="@string/app_instructions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_recover_account"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PasswordActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_change_password"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".InstructionsActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_instructions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EndActivity"
+            android:configChanges="orientation"
+            android:label="@string/endQuestion"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".QuestionActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_questionnaire"
+            android:screenOrientation="portrait" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RegisterActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_change_password"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LoginActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

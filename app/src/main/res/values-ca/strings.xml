@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPSApp</string>
+    <string name="app_instructions">IPSApp - Instruccione</string>
+    <string name="app_recover_account">IPSApp - Ajuda</string>
+    <string name="app_complete_profile">IPSApp - Registre</string>
+    <string name="app_change_password">IPSApp - Configuració</string>
+    <string name="app_results">IPSApp - Resultats</string>
+    <string name="app_questionnaire">IPSApp - Qüestionari</string>
+    <string name="emailField">Correu electrònic</string>
+    <string name="passwordField">Contrasenya</string>
+    <string name="logInButton">Iniciar sessió</string>
+    <string name="failedLogIn">Inici de sessió fallit</string>
+    <string name="wrongEmail">L\'email introduit no està registrat</string>
+    <string name="wrongCredential">Email o contrasenya incorrectes</string>
+    <string name="emptyCredential">Si us plau, emplena tots els camps.</string>
+    <string name="textView1">Abans de començar, emplena els següents camps:</string>
+    <string name="textViewName">Nom</string>
+    <string name="textViewSex">Sexe</string>
+    <string name="textViewLanguage">Llengua</string>
+    <string name="nameField">Escriu el teu nom</string>
+    <string name="femaleButton">Dona</string>
+    <string name="maleButton">Home</string>
+    <string name="catalanButton">Català</string>
+    <string name="spanishButton">Castellà</string>
+    <string name="nextButton">Següent</string>
+    <string name="previousButton">Anterior</string>
+    <string name="presentationText">¡Hola, %1$s!</string>
+    <string name="instructions">Instruccions</string>
+    <string name="instructionsText">El qüestionari IPSAQ consta de 32 preguntes. Per cada pregunta que
+        responguis desbloquejaràs una nova peça d\'un puzzle de 9 peces. </string>
+    <string name="instructionsText2">Endivina què amaga el puzzle per poder ver la imatge completa i
+        passar al següent.</string>
+    <string name="instructionsText3">Pots abandonar el qüestionari en qualsevol moment i reprendre\'l
+    més tard per on l\'havies deixat.</string>
+    <string name="instructionsText4">Quan hagis acabat, hauràs d\'endevinar quin és
+        el concepte que relaciona totes les imatges que has vist. Quants més puzzles hagis
+        endevinat més fàcil et serà!</string>
+    <string name="instructionsText5">Però no te\'n vagis sense conèixer els teus resultats!</string>
+    <string name="instructionsText6">Seràs un atribuidor intern, personal o situacional? Comença el qüestionari
+        i descobreix-ho!</string>
+    <string name="introduction">Ja pots començar el teu primer qüestionari. Prent-te el teu temps i respon amb sinceritat.
+        Estàs llest/a?</string>
+    <string name="introduction2">¡Tens un qüestionari començat! ¿Vols reprendre\'l?</string>
+    <string name="introduction3">Ja has completat el teu qüestionari! Envia\'l i accederàs al final del joc.</string>
+    <string name="introduction4">Ja has completat el teu qüestionari! Accedeix a la pregunta final del joc.</string>
+    <string name="introduction5">Ja has enviat un qüestionari! Pots començar-ne un de nou si així ho desitges.</string>
+    <string name="startButton">Començar qüestionari</string>
+    <string name="resumeButton">Reprendre qüestionari</string>
+    <string name="sendButton">Enviar qüestionari</string>
+    <string name="access">Accedir</string>
+    <string name="menu">Menú principal</string>
+    <string name="q1">Un amic et porta a casa. Quina és la causa que el teu amic et porti a casa?</string>
+    <string name="q2">Un amic parla sobre tu a esquena teva. Quina és la causa que el teu amic parli sobre
+        tu a esquena teva?</string>
+    <string name="q3">Un amic diu que no et té respecte. Quina és la causa que el teu amic digui que no
+        et té respecte?</string>
+    <string name="q4">Un amic t\'ajuda a cuidar les plantes. Quina és la causa que el teu amic t\'ajudi
+        a cuidar les plantes?</string>
+    <string name="q5">Un amic pensa que ets de confiança. Quina és la causa que el teu amic pensi que
+        ets de confiança?</string>
+    <string name="q6">Un amic et diu quelcom insultant. Quina és la causa que el teu amic et digui quelcom
+        insultant?</string>
+    <string name="q7">Un amic et compra un regal. Quina és la causa que el teu amic et compri un regal?</string>
+    <string name="q8">Un amic es posa amb tu. Quina és la causa que el teu amic es posi amb tu?</string>
+    <string name="q9">Un amic pensa que no ets honrat. Quina és la causa que el teu amic pensi que no ets
+        honrat?</string>
+    <string name="q10">Un amic rebutja parlar amb tu. Quina és la causa que el teu amic rebutgi parlar amb tu?</string>
+    <string name="q11">Un amic pensa que ets interessant. Quina és la causa que el teu amic pensi que ets
+        interessant?</string>
+    <string name="q12">Un amic t\'envia una postal. Quina és la causa que el teu amic t\'enviï una postal?</string>
+    <string name="q13">Un amic pensa que ets antipàtic. Quina és la causa que el teu amic pensi que ets
+        antipàtic?</string>
+    <string name="q14">Un amic passa algun temps parlant amb tu. Quina és la causa  que el teu amic passi
+        algun temps parlant amb tu?</string>
+    <string name="q15">Un amic pensa que ets llest. Quina és la causa que el teu amic pensi que ets llest?</string>
+    <string name="q16">Un amic pensa que ets sensat. Quina és la causa que el teu amic pensi que ets sensat?</string>
+    <string name="q17">Un amic es nega a ajudar-te amb la teva feina. Quina és la causa que el teu amic
+        es negui a ajudar-te amb la teva feina?</string>
+    <string name="q18">Un amic pensa que ets injust. ¿Quina és la causa que el teu amic pensi que ets injust?</string>
+    <string name="q19">Un amic diu que no li agrades. Quina és la causa que el teu amic digui que no li agrades?</string>
+    <string name="q20">Un amic truca per preguntar per tu. Quina és la causa que el teu amic truqui per
+        preguntar per tu?</string>
+    <string name="q21">Un amic t\'ignora. Quina és la causa que el teu amic t\'ignori?</string>
+    <string name="q22">Un amic diu que t\'admira. Quina és la causa que el teu amic digui que t\'admira?</string>
+    <string name="q23">Un amic diu que et troba avorrit. Quina és la causa que el teu amic digui que et
+        troba avorrit?></string>
+    <string name="q24">Un amic diu que l\'ofens. Quina és la causa que el teu amic digui que l\'ofens?</string>
+    <string name="q25">Un amic et visita per xerrar. Quina és la causa que el teu amic et visiti per xerrar?</string>
+    <string name="q26">Un amic creu que ets honest. Quina és la causa que el teu amic cregui que ets honest?</string>
+    <string name="q27">Un amic traiciona la confiança que tens en ell. Quina és la causa que el teu amic
+        traicioni la confiança que tens en ell?</string>
+    <string name="q28">Un amic et demana que te\'n vagis. Quina és la causa que el teu amic et demani que te\'n
+        vagis?</string>
+    <string name="q29">Un amic diu que et respecta. Quina és la causa que el teu amic digui que et respecta?</string>
+    <string name="q30">Un amic pensa que ets estúpid. Quina és la causa que el teu amic pensi que ets estúpid?</string>
+    <string name="q31">Un amic diu que li caus bé. Quina és la causa que el teu amic digui que li caus bé?</string>
+    <string name="q32">Un veí et convida a prendre una copa. Quina és la causa que el teu veí et convidi a prendre
+        una copa?</string>
+    <string name="cause">(Si us plau, escriu la causa principal)</string>
+    <string name="thisIs">Això és:</string>
+    <string name="a">Quelcom sobre tu?</string>
+    <string name="b">Quelcom sobre l\'altra persona o altra gent?</string>
+    <string name="c">Quelcom sobre la situació (circumstàncies o atzar)?</string>
+    <string name="percentage">En quin percentatge estàs convençut que aquesta raó és la principal causa?</string>
+    <string name="logout">Tancar la sessió</string>
+    <string name="sendTest">Enviar qüestionari</string>
+    <string name="changePassword">Per motius de seguritat, escull una nova contrasenya:</string>
+    <string name="changePassword2">Canvia la teva contrasenya</string>
+    <string name="currentPassword">Contrasenya actual</string>
+    <string name="newPassword">Nova contrasenya</string>
+    <string name="confirmPassword">Confirmar contrasenya</string>
+    <string name="failedPasswordChange">Canvi de contrasenya fallit</string>
+    <string name="notMatchingPasswords">Les contrasenyes no coincideixen</string>
+    <string name="tryAgainLater">Intenta-ho de nou més tard.</string>
+    <string name="failedRegister">Registre fallit</string>
+    <string name="writeEmail">Per recuperar el teu compte, introdueix el correu electrònic vinculat a aquesta.</string>
+    <string name="failedPetition">Petició fallida</string>
+    <string name="genericError">S\'ha produit un error. Intenta-ho de nou més tard.</string>
+    <string name="serverError">No ha pogut establir-se la connexió amb el servidor. Intenta-ho de nou més tard.</string>
+    <string name="mailSent">Mail enviat</string>
+    <string name="mailSent2">S\'ha enviat un mail a %1$s.</string>
+    <string name="error">Error</string>
+    <string name="forgotPassword">Has oblidat la teva contrasenya?</string>
+    <string name="recoverAccount">Recupera el teu compte</string>
+    <string name="completeProfile">Completa el teu perfil</string>
+    <string name="complete">Pregunta completada</string>
+    <string name="half">Pregunta a mitges</string>
+    <string name="empty">Pregunta sense respondre</string>
+    <string name="skip">Saltar instruccions</string>
+    <string name="gotAnswer">¿Saps ja què es?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="finish">Finalitzar</string>
+    <string name="writeAnswer">Escriu aquí la teva resposta (una paraula)</string>
+    <string name="failedNext">Error</string>
+    <string name="writeAll">Has de completar tota la pregunta abans de continuar.</string>
+    <string name="_continue">Continuar</string>
+    <string name="incorrect">Resposta incorrecta</string>
+    <string name="correct">Resposta correcta!</string>
+    <string name="unguessed">No has endevinat la imatge!</string>
+    <string name="incorrectText">Segueix responent preguntes i desbloqueja més peces del puzzle!</string>
+    <string name="incorrectText2">La resposta correcta era: %1$s.\nSegueix responent preguntes i desbloqueja un nou puzzle!</string>
+    <string name="end">Ja has acabat el qüestionari!</string>
+    <string name="endText">Ja has acabat el qüestionari! A continuació, s\'enviaran les teves respostes i accediràs a la pregunta final del joc.
+    Estàs llest?</string>
+    <string name="endText2">La resposta correcta era: %1$s.\nA continuació, s\'enviaran les teves respostes i accediràs a la pregunta final del joc.
+    Estàs llest?</string>
+    <string name="endText3">A continuació, s\'enviaran les teves respostes i accediràs a la pregunta final del joc.
+    Estàs llest?</string>
+    <string name="endText4">La resposta correcta era: %1$s. Observa la imatge completa abans d\'accedir a la pregunta final del joc.</string>
+    <string name="correctText">Imatge desbloquejada</string>
+    <string name="cancel">Cancelar</string>
+    <string name="puzzleQuestion">¿Quin concepte relaciona totes les imatges? (una paraula)</string>
+    <string name="puzzleAnswer">Escriu aquí la teva resposta</string>
+    <string name="seeResults">Veure resultats</string>
+    <string name="correctConcept">El concepte que relaciona totes les paraules és: %1$s.\nMoltes
+    gracies per completar el qüestionari. Accedeix als teus resultats a continuació.</string>
+    <string name="incorrectConcept">El concepte que relaciona totes les paraules és: %1$s.\nMoltes
+    gracies per completar el qüestionari. Accedeix als teus resultats a continuació.</string>
+    <string name="exitButton">Sortir del qüestionari</string>
+    <string name="youAre">Ets un...</string>
+    <string name="personal">atribuidor personal!</string>
+    <string name="internal">atribuidor intern!</string>
+    <string name="situational">atribuidor situacional!</string>
+    <string name="personalText">Tendeixes a atribuir les causes dels successos a altres persones.
+        Això pot portar-te a tenir creències errònies i paranoies sobre el que passa al teu voltant,
+        el que pensa la gent de tu o les seves intencions. Has d\'esforçar-te per millorar-ho.</string>
+    <string name="internalText">Tendeixes a atribuir-te les causes dels successos a tu mateix. Això
+        pot causar-te mal humor i fins i tot despressió. Has d\'esforçar-te per millorar-ho.</string>
+    <string name="situationalText">Tendeixes a atribuir les causes dels successos a circumstàncies externes.
+    Això és psicològicament benigne, així que enhorabona! No tens res de què preocupar-te.</string>
+    <string name="send">Enviar</string>
+    <string name="start">Començar</string>
+    <string name="questionnaire">Qüestionari\nIPSAQ</string>
+    <string name="endQuestion">Pregunta final</string>
+
+
+    <string name="summer">Estiu</string>
+    <string name="technology">Tecnologia</string>
+    <string name="animals">Animals|Animal</string>
+    <string name="sunflower_jpg">Girasol</string>
+    <string name="watermelon_jpg">Síndria</string>
+    <string name="beach_jpg">Platja</string>
+    <string name="palmtree_jpg">Palmera|Palmeres</string>
+    <string name="icecream_jpg">Gelat</string>
+    <string name="flamingo_jpg">Flamenc</string>
+    <string name="pineapple_jpg">Pinya</string>
+    <string name="sunglasses_jpg">Ulleres|Ullera</string>
+    <string name="umbrella_jpg">Para-sol|Parasol|Quitasol|Sombrilla</string>
+    <string name="swimmingpool_jpg">Piscina</string>
+    <string name="floater_jpg">Flotador</string>
+    <string name="bee_jpg">Abella</string>
+    <string name="berries_jpg">Baies|Bayas</string>
+    <string name="bikini_jpg">Biquini|Bikini|Banyador</string>
+    <string name="coral_jpg">Coral|Corals</string>
+    <string name="daisy_jpg">Margarida</string>
+    <string name="deckchair_jpg">Gandula|Tumbona</string>
+    <string name="diver_jpg">Submarinista|Submarinisme|Bucejador|Buceig</string>
+    <string name="fan_jpg">Ventilador</string>
+    <string name="flipflops_jpg">Xancletes|Xancleta</string>
+    <string name="hammock_jpg">Hamaca</string>
+    <string name="hat_jpg">Barret</string>
+    <string name="ice_jpg">Gel|Glaçó</string>
+    <string name="lavander_jpg">Lavanda</string>
+    <string name="lemonade_jpg">Llimonada</string>
+    <string name="sailboat_jpg">Veler|Vaixell</string>
+    <string name="shells_jpg">Petxines|Petxina</string>
+    <string name="skirt_jpg">Faldilla|Minifalda|Minifaldilla</string>
+    <string name="sun_jpg">Sol</string>
+    <string name="surfer_jpg">Surfista|Surf|Surfer</string>
+    <string name="trafficjam_jpg">Embús|Embós</string>
+    <string name="wheatmower_jpg">Segadora|Segador|Trilladora</string>
+    <string name="mouse_jpg">Ratolí</string>
+    <string name="computer_jpg">Ordinador</string>
+    <string name="coffeemachine_jpg">Cafetera</string>
+    <string name="lightbulb_jpg">Bombeta</string>
+    <string name="speaker_jpg">Altaveu</string>
+    <string name="headphones_jpg">Auriculars|Auricular|Cascos</string>
+    <string name="washingmachine_jpg">Rentadora|Rentadores</string>
+    <string name="drone_jpg">Dron</string>
+    <string name="smartphone_jpg">Mòbil|Telèfon</string>
+    <string name="elevator_jpg">Ascensor</string>
+    <string name="car_jpg">Cotxe</string>
+    <string name="television_jpg">Televisor|Televisió</string>
+    <string name="camera_jpg">Càmera</string>
+    <string name="microphone_jpg">Micròfon</string>
+    <string name="robot_jpg">Robot</string>
+    <string name="airplane_jpg">Avió</string>
+    <string name="alarmclock_jpg">Despertador</string>
+    <string name="fridge_jpg">Nevera</string>
+    <string name="keyboard_jpg">Teclat</string>
+    <string name="laser_jpg">Làser</string>
+    <string name="microscope_jpg">Microscopi</string>
+    <string name="printer_jpg">Impressora</string>
+    <string name="projector_jpg">Projector</string>
+    <string name="radiography_jpg">Radiografia</string>
+    <string name="rocket_jpg">Coet</string>
+    <string name="telephone_jpg">Telèfon</string>
+    <string name="telescope_jpg">Telescopi</string>
+    <string name="train_jpg">Tren</string>
+    <string name="turbine_jpg">Turbina</string>
+    <string name="turntable_jpg">Tocadiscs</string>
+    <string name="watch_jpg">Rellotge</string>
+    <string name="cat_jpg">Gat</string>
+    <string name="dog_jpg">Gos</string>
+    <string name="elephant_jpg">Elefant</string>
+    <string name="fox_jpg">Guineu</string>
+    <string name="butterfly_jpg">Papallona</string>
+    <string name="parrot_jpg">Lloro</string>
+    <string name="eagle_jpg">Àliga</string>
+    <string name="turtle_jpg">Tortuga</string>
+    <string name="lion_jpg">Lleó</string>
+    <string name="tiger_jpg">Tigre</string>
+    <string name="squirrel_jpg">Esquirol</string>
+    <string name="reindeer_jpg">Cérvol</string>
+    <string name="frog_jpg">Granota</string>
+    <string name="penguin_jpg">Pingüí</string>
+    <string name="hamster_jpg">Hàmster</string>
+    <string name="ant_jpg">Formiga</string>
+    <string name="duck_jpg">Ànec</string>
+    <string name="jellyfish_jpg">Medusa</string>
+    <string name="monkey_jpg">Mico|Mono</string>
+    <string name="rooster_jpg">Gall</string>
+    <string name="bear_jpg">Ós</string>
+    <string name="camel_jpg">Camell</string>
+    <string name="cow_jpg">Vaca</string>
+    <string name="crab_jpg">Cranc</string>
+    <string name="dolphin_jpg">Dofí</string>
+    <string name="hippopotamus_jpg">Hipopòtam</string>
+    <string name="horse_jpg">Cavall</string>
+    <string name="koala_jpg">Koala</string>
+    <string name="owl_jpg">Mussol</string>
+    <string name="pig_jpg">Porc</string>
+    <string name="rabbit_jpg">Conill</string>
+    <string name="seal_jpg">Foca</string>
+    <string name="snake_jpg">Serp</string>
+
+</resources>
